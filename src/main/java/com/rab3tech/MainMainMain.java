@@ -5,6 +5,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
+/**
+ * 
+ * @author javahunk
+ * 
+ * This is change in auther name
+ *
+ */
 @SpringBootApplication
 public class MainMainMain {
 	
